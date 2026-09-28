@@ -1,6 +1,6 @@
 # Personal Herdr workspace
 
-Private backup of the personal Herdr workspace instructions under `~/herdr`.
+Public snapshot of the personal Herdr workspace instructions under `~/herdr`.
 
 - `POLICY.md`: workspace scope, authorization and credential boundaries.
 - `PLAYBOOK.md`: brief, implementation, review, verification and reporting workflow.
