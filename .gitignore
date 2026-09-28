@@ -1,0 +1,6 @@
+.env
+*.json
+*.jsonl
+*.log
+*.sqlite*
+__pycache__/
