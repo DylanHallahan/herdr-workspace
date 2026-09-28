@@ -1,6 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
 .env
+.env.*
+!.env.example
+workspace/
+*.log
+auth.json
+credentials.json
+.databrickscfg
 *.json
 *.jsonl
-*.log
 *.sqlite*
-__pycache__/
